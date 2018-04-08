@@ -1,6 +1,5 @@
 library(tidyverse)
 library(lubridate)
-library(magick)
 library(rms)
 
 source('strata_pitch_plot.R')
